@@ -1,0 +1,9 @@
+Ein Spieler mit einer Fixen Ablöse (einsehbar in der [Spielerinfo]) kann von interessierten Managern direkt angesprochen werden, es gibt keine [Ablöseverhandlungen] mehr.
+
+Eine fixe Ablöse kann zum einen während der [Vertragsverhandlungen] mit dem Spieler festgelegt werden, zum anderen über das Menü '''Mannschaft-->Kader aktuell''' durch ein Klicken auf das Kästchen in der Spalte "Transfer" hinter jedem Spieler (siehe unten). Danach kommt man in ein Menü, in dem die Höhe der Fixablöse festgelegt werden kann. Man beachte jedoch, dass die Spieler unter Umständen mehr Wert haben, und man eine wesentlich höhere Ablösesumme bekommen kann, wenn man ihn per [Abwerbe-Transferliste|Abwerbung] über Inserate im [Forum] oder der [Zeitung] bei den Mitmanagern anpreist.
+
+Ist die fixe Ablöse '''kein''' Vertragsbestandteil, steht der Spieler damit automatisch auf der [Verkaufs-Transferliste] und der bisherige Vertrag spielt bei einem Transfer keine Rolle, ansonsten gelten die gleichen Bedingungen wie bei einer [Vertragsverhandlungen|Abwerbung].
+
+http://www.dementia04.de/fmo/mediawiki/images/d/d8/Unbenannt.JPG
+
+{tags: Transfers}

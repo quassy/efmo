@@ -1,0 +1,22 @@
+Die Einsatzstärke gibt die tatsächliche Stärke an mit der ein Spieler ins Spiel geht. Sie wird beeinflusst durch die physische (Kondition und [Frische]) und psychische ([Motivation]) Verfassung des Spielers.
+Zu Saisonbeginn ist sowohl die physische als auch die psychische Verfassung der Spieler "normal" (Kondition und Frische: je 50; Motivation 100)
+In diesen Fall ist die [Gesamtstärke|Spielerstärke] gleich der Einsatzstärke.
+Im laufe der Saison verändert sich der Verfassung deiner Kicker durch Training, Spiele und andere Ereignisse und damit auch die Einsatzstärke.
+
+'''Dabei gilt:'''
+
+- jeder Motivationspunkt über "normal" macht deinen Kicker um 0.1 Punkte stärker.
+
+- jeder Motivationspunkt unter normal schwächt die Stärke deines Kickers um 0.1 Punkte.
+
+Die physischen Attribute werden addiert. ( zu Saisonbeginn 50 Kondition + 50 Frische = 100)
+
+- Jeweils 10 Punkte über normal stärken deinen Spieler um 0.1 Stärkenpunkte.
+
+- Jeweils 10 Punkte unter 100 schwächen ihn um 0.1 Stärkenpunkte.
+
+
+'''Achtung:''' Wichtig für die Stärke eines Spielers im Spiel ist auch die [Spielpositionen|Positionierung] auf dem Spielfeld.
+
+{tags: Spieler}
+{tags: Aufstellung und Taktik}

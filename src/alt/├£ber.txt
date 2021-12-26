@@ -1,0 +1,20 @@
+Hier wird die Arbeit von EFMo-Wiki geschildert...
+
+! LionWiki
+
+!! Bug
+*[URL in URL breaks syntax|http://lionwiki.0o.cz/forum/index.php?action=vthread&forum=16&topic=201] [Syntax|http://lionwiki.0o.cz/?page=Syntax+reference.en#commentWrap]
+
+!! Features
+*[Include EFMo-Wiki into page|http://lionwiki.0o.cz/forum/index.php?action=vthread&forum=2&topic=176]
+*[Show page on links to this page|http://lionwiki.0o.cz/forum/index.php?action=vthread&forum=3&topic=200] (ist mod)
+
+!! Plugins
+*[CleanURL|http://lionwiki.0o.cz/forum/index.php?action=vthread&forum=13&topic=202]
+
+!! Mod
+WhatLinkshere:20 {{$CON = "<ul style=\"-moz-column-count:4\">";}}
+WhatLinkshere:59 {{What links here? > Links}}
+WhatLinkshere:13 {{var $link_page_title = false;}}
+WhatLinkshere:60 {{if ($link_page_title) { /*...*/ } }}
+index.php:383 {{$mod_link = "<a style=\"float:right\" href=\"$self?action=edit&page=".u($page)."&par=$h_id\">$T_EDIT</a>";}}

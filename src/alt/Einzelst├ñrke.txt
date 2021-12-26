@@ -1,0 +1,25 @@
+Jeder Spieler bei FMO hat Einzelstärken, deren Durchschnitt die [Spielerstärke] ergeben. Einzelstärken gibt es auf einer Skala von 1-13. Es gibt 12 Einzelstärken, 7 bei Feldspielern und 5 bei Torhütern (siehe unten).
+
+Einzelstärken geben die Fähigkeiten eines Spielers in bestimmten Situationen an. Da die Einzelstärken auf verschiedenen Positionen unterschiedlich stark einfließen, kann z.B. ein Manndecker mit Stärke 5.0, aber Einzelstärken von jeweils 11 in Kopfball und Zweikampf, in Defensivzweikämpfen wesentlich besser sein, als ein Manndecker der Stärke 7.0, aber mit Einzelstärken von nur 7 in jenen Kategorien. Dafür leidet allerdings die [Aufstellungsstärke], welche gemeinsam mit der [Taktik] zur Generierung von Chancen beiträgt.
+
+Einzelstärken können sich auch verändern. Dies kann nur bei den Auf- und AbWertungen ([AAW]) geschehen.
+
+Jeder Spieler hat "passend" zu einer Einzelstärke auch einen Trainingswert, der mit [Training] beeinflusst werden kann. 
+
+!  Feldspieler 
+* Schnelligkeit 
+* Zweikampf 
+* Kopfball 
+* Schusskraft 
+* Schussgenauigkeit 
+* Technik 
+* Spielintelligenz 
+
+!  Torhüter 
+* Reflexe 
+* Paraden 
+* Lufthoheit 
+* Herauslaufen 
+* Ballsicherheit 
+
+{tags: Spieler, Training}

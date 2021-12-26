@@ -1,0 +1,33 @@
+Das Stadion ist eines der Herzstücke eines jeden Vereins, wenn es um Einnahmen geht. Um sein Stadion zu verbessern, oder um Dinge zu verkaufen, weil dringend Geld benötigt wird, kann man das Stadionmenü (unter Verein-->Stadion) nutzen.
+
+Ebenso kann sich durch zufällige Ereignisse der Zustand des Stadions ändern, oder ein Gönner entschliesst sich, Anzeigetafel, Rasenheizung oder Flutlicht zu spenden.
+
+! Ausbau
+
+Jeder Manager kann sein Stadion ausbauen. Während die Änderungen an der Anzeigetafel, dem Flutlicht und der Rasenheizung sofort stattfinden, werden Plätze immer am Sonntag nach der Spielauswertung gebaut. Dementsprechend kann bis dahin das Bauvorhaben auch gestoppt werden.
+
+Es können maximal 500 Plätze pro Woche gebaut werden. Sollte ein Dach existieren, unter dem ausgebaut werden soll, muss das Dach abgerissen und neu gebaut werden. Es kommt also zu erheblichen Mehrausgaben.
+
+Wenn der Bau "mittendrin" abgebrochen wird geht kein Geld verloren, da immer nur für die wöchentlichen Abschnitte bezahlt wird. Die bereits erbauten Plätze des Stadions bleiben selbstverständlich auch erhalten. 
+
+
+! Rückbau
+
+Man kann nur die Anzeigetafel, die Rasenheizung und das Flutlicht zurückbauen. Dazu einfach das Häkchen entfernen bzw. eine geringere Anzeigetafel-Stufe auswählen. Mit einem Klick auf den "Umbau"-Button wird das Geld gutgeschrieben und die Änderungen gespeichert.
+
+Achtung: Das Geld, das man durch Rückbau bekommt, muss man später wieder doppelt zahlen, um den Ausgangszustand herzustellen.
+
+! Renovierung
+
+Eine Renovierung des Stadions kann sinnvoll sein, da [Fans] lieber in ein neues Stadion kommen als in ein baufälliges. Dazu einfach das Drop-Down-Menü neben "Zustand" eines Blockes auf eine höhere Stufe stellen, und über "Umbau" die Änderungen speichern.
+
+Der Zustand eines Blockes kann folgende Werte annehmen:
+* neu
+* fast neu
+* gut
+* normal
+* abgenutzt
+* baufällig
+* verfallen
+
+{tags: Finanzen}

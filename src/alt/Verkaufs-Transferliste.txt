@@ -1,0 +1,9 @@
+Die Verkaufs-Tranferliste findet man unter "Transfers -> Verkaufs-Transferliste". 
+
+Bei einem Spieler auf der Verkaufs-Transferliste (VK-TL) muss der verkaufende Manager nicht mehr sein Einverständnis geben, der Spieler wird bei erfolgreichen [Vertragsverhandlungen] mit anderen Vereinen für die [Fixe Ablöse|festgelegte Ablöse] verkauft. Um einen Spieler auf die VK-TL zu setzen muss man über den Kader mit einem Klick auf 'Transfer' eine [Fixe Ablöse] festlegen, die immer unter dem [Marktwert] liegen muss. 
+
+Bei Spielern auf der VK-TL wird das Gehalt vollkommen neu ausgehandelt, das Gesamtpaket muss also '''nicht''' überboten werden. Allerdings gewinnt der Verein die Verhandlungen mit dem Spieler, der das beste Paket geboten hat.
+
+'''Wichtig''': Gerade bei Spielern unter 30 kann es sich oft lohnen, die Spieler erst per [Zeitung] oder [Forum] anzubieten, weil viele Manager bereit sind, bei einer [Abwerbe-Transferliste|Abwerbung] mehr [Ablöseverhandlungen|Ablöse] zu zahlen.
+
+{tags: Transfers, Einsteigerhilfe}

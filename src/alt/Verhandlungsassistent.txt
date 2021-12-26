@@ -1,0 +1,7 @@
+Der '''Verhandlungsassistent''' übernimmt die [Vertragsverhandlungen] mit Spielern anderer Vereine. Den Vertrag, den man also ausfüllt und dann abschickt geht nicht direkt an den Spieler, sondern das sind die Vorgaben, die man dem Verhandlungsassisten macht. Man gibt dort die maximalen Werte ein, die man bereit ist dem Spieler anzubieten. In der Regel bleibt der Verhandlungsassistent unter den Vorgaben. Das hängt aber auch entscheidend von dem Spieler ab und ob noch andere Manager für den Spieler mit bieten. Ist man der einzige Manager, so ist die Chancen groß, dass der Spieler ein niedrigeren Vertrag annimmt. Sind die Vorgaben unter den Ansprüchen des Spielers lehnt der Spieler den Vertrag ab.
+
+Der Verhandlungsassistent fängt auch erst bei bestimmten Summen an zu verhandeln. So wird er, wenn er maximal 10 Millionen Grundgehalt bieten darf, nicht bereits bei 200.000 anfangen. Je höher man also die Maximalsumme wählt, desto höher wird der Spielervertrag also letztendlich ausfallen, unabhängig von Mitbietern und anderen Faktoren.
+
+Der Verhandlungsassistent verhandelt nur bei Transfers. Bei Vertragsverlängerungen verhandelt der Manager direkt mit dem Spieler, der Spieler wird das Angebot also annehmen wie es ist, oder ablehnen.
+
+{tags: Transfers}

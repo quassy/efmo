@@ -1,0 +1,6 @@
+Um die [Individuellen Fähigkeiten|Individuelle Fähigkeiten] deiner Kicker zu verbessern musst du zunächst beim [Mannschaftstraining] eine Einheit dafür "reservieren".
+
+Danach wechselst du zum Menü "Taktik/ individuelles Training". Dort kannst du nun in der Spalte "individuelles Training" für jeden deiner Kicker ein individuelles Training auswählen.
+Du solltest das individuelle Training einzelner Spieler nur ändern wenn er bei 100% angekommen ist oder du nicht möchtest dass der Spieler die aktuelle [Individuelle Fähigkeiten] erlernt, denn Fortschritte unter 100% werden beim ändern nicht gespeichert.
+
+{tags: Training}

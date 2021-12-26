@@ -1,0 +1,13 @@
+{menu(verein.html)
+  parent=[AO Kevala]
+  [668]
+} 
+{tags: Verein}
+
+'''AO Kevala''' ist ein Verein der ersten griechischen Liga. Der größte Erfolg der Vereinsgeschichte war die Vizemeisterschaft 2008/09 und die Championsleagueteilnahme im folgenden Jahr. Manager von AO Kevala ist seit der ersten Saison [Johann Quassowski|Johann Quassowski].
+
+! Vereinsgeschichte
+
+* Zum Ersten mal ist der Verein 02/03 in die 1. Liga aufgestiegen, in der folgenden Saison aber direkt wieder abgestiegen.
+* Der zweite Aufstieg folgte 04/05. Seitdem ist AO Kevala mit wachsendem Erfolg in der 1. Liga dabei.
+* 2008/09 spielt man das erste mal im AOFA-Cup mit. In der gleichen Saison wurde man Vizemeister und spielte so in der Saison 09/10 das erste mal in der Championsleague. Hier ist AO Kevala als Drittplatzierter in der Gruppe ausgeschieden.

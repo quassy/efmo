@@ -1,0 +1,7 @@
+Die Zeitung ([abpfiff|http://www.fussballmanager-online.com/php/zeitung/?]) ist eine Kommunikationsplattform innerhalb FMOs. Hier kann man Interviews geben, Spielvorschauen, Spielrückblicke, Pressekonferenzen und Transfergerüchte über Spieler schreiben. Sie ist unter dem Menüpunkt "Presse" zu finden. 
+
+Ähnlich wie im [Forum] kann man hier Spieler anbieten, damit andere Manager auf sie aufmerksam werden, und in Verhandlungen mit dem Manager treten. Auch hier ist die Nennung von Ablösevorstellungen untersagt.
+
+{tags: Community, Medien}
+
+Zu Unterscheiden ist diese Zeitung von Angeboten wie [EFMo|www.efmo.pytalhost.de].

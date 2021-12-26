@@ -1,0 +1,9 @@
+Einige Spieler besitzen neben ihrer [Einzelstärke] noch besondere Fähigkeiten. Diese Fähigkeiten können in bestimmten Spielsituationen von Vorteil sein oder falls negativ von Nachteil.
+So ist zum Beispiel die Wahrscheinlichkeit, dass ein Spieler mit der individuellen Fähigkeit "Freistoss +2" einen Freistoss direkt verwandelt größer als die bei einem gleichstarken Spieler ohne diese Fähigkeit.
+
+Jeder Spieler kann nur 2 individuelle Fähigkeiten erlernen. Besitzt ein Spieler eine negative Fähigkeit so kann diese „abtrainiert“ werden. Die Verbesserung/Erlernung individueller Fähigkeiten geht über [Individuelles Training]. 
+Spieler mit mehr als 2 individuellen Fähigkeiten sind Überbleibsel aus Zeiten, in denen noch mehr Fähigkeiten möglich waren.
+
+Ein Spieler mit "Freistoss +2" beherrscht Freistösse besser als einer mit "Freistoss +1", während ein Mann mit "Freistoss -1" besser keine Standards ausführen sollte und sich ein Fußballer mit "Freistoss -2" unter Umständen beim Versuch, einen Freistoss auszuführen, selbst verletzen könnte.
+
+{tags: Training, Spieler}

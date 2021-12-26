@@ -1,0 +1,35 @@
+Einige Spieler haben spezielle Charaktereigenschaften. Sie sind nicht mit den [individuellen Fähigkeiten|Individuelle Fähigkeiten] zu verwechseln. Charaktereigenschaften kann man nicht erlernen. Jeder Spieler hat sie, oder eben nicht. Man findet sie im Menü [Spielerinfo]. Die Charaktereigenschaften sind noch nicht vollständig ins Spiel eingearbeitet, daher haben manche Auswirkungen, andere aber nicht. 
+
+! Implementierte Eigenschaften
+* Allrounder - spielt auch in fremden Mannschaftsteilen (außer im Tor) mit 75% seiner Einsatzstärke
+* Geldgeier - implementiert, wirkt sich aber aufgrund der hohen Gehälter im Spiel kaum aus 
+
+! Nicht implementierte Eigenschaften
+* Kämpfernatur
+* Mimose
+* Schlitzohr
+* Spezialist
+* Flexibel
+* Schiriliebling
+* Heimspieler
+* Schönwetterspieler
+* Joker
+* Egoist
+* Leichtfuss
+* Führungsperson
+* Hitzkopf
+* Frohnatur
+* Mann ohne Nerven
+* Nervenbündel
+* Phlegmatiker
+* Vereinsanhänger
+* Musterprofi
+* Skandalnudel
+* Sensibelchen
+* Starallüren
+* Teeniestar
+* Unruhestifter
+* Beleidigte Leberwurst
+* Integrationsfigur
+
+{tags: Spieler}

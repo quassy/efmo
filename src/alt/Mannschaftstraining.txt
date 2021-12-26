@@ -1,0 +1,10 @@
+Die effektivste Möglichkeit, all deine Kicker ausgeglichen zu trainieren, bietet das Mannschaftstraining (Taktik-->kurzfristiges Training).
+Hier hast du die Möglichkeit, das Training deiner Kicker bis zu einer Woche im Voraus einzustellen. Da (meistens) jedes Training besser ist als kein Training, solltest du diese Möglichkeit nutzen, denn niemand kann garantieren, dass der Server jeden Tag rund um die Uhr erreichbar ist.
+
+Insgesamt stehen dir 16 Trainingseinheiten zur Verfügung, auszuwählen über die Pull-down Menüs, die sich alle unterschiedlich auf die Spielerattribute auswirken. Pro Tag kannst du maximal 3 Einheiten trainieren. Je mehr Einheiten du allerdings pro Tag trainierst, desto erschöpfter und demotivierter werden deine Spieler.
+
+Den Trainingsfortschritt deiner Kicker siehst du entweder über dem Mannschaftstrainingsplan, als Mittelwert all deiner Kicker, oder in der jeweiligen [Spielerinfo].
+
+Da gute Trainingswerte wichtig für die [AAW] sind und sich auch direkt im Spiel bemerkbar machen, empfiehlt es sich, ein wenig zu experimentieren und die Auswirkungen der verschiedenen Einheiten zu beobachten. Als Einstieg kannst du die Kombinationen der vordefinierten Trainingswochen (unter dem Wochenplan) benutzen, viele zusätzliche Tipps gibt es auch im [Forum].
+
+{tags: Training}

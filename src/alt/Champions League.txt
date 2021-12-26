@@ -1,0 +1,15 @@
+Die Champions-League (CL) ist die Königsklasse des internationalen Wettbewerbs. Zum einen sind die [Intern. Prämien|Prämien] deutlich höher, zum anderen ist die Teilnahme enger begrenzt.
+16 Teams sind auf Grund ihrer [Liga]-Platzierung (orangene Einfärbung des Tabellenplatzes) gesetzt, 16 kommen aus der [CL-Quali] dazu. Die Vorrunde wird in 8 Gruppen á 4 Teams ausgetragen. Die ersten beiden der Gruppe kommen ins CL-Achtelfinale, der Gruppendritte in die 4. Runde des [AOFA-Cup]s. Der 4. einer Gruppe scheidet komplett aus dem internationalen Wettbewerb aus.
+Die Teilnahme allein an der CL bringt pro Team auch jeweils 3 Punkte für die [5-Jahreswertung].
+
+! Bisherige Gewinner 
+|,1 2002/2003| Manchester Soccer | [6 - 7 n.E.|http://fm-o.com/php/infos/spiel.php?spiel_id=16487]| '''Virginia Turin'''|
+|,1 2003/2004| West Ham Soccer | [1 - 2|http://fm-o.com/php/infos/spiel.php?spiel_id=54436]| '''Manchester Soccer'''|
+|,1 2004/2005| '''Expella Alaves''' | [2 - 1|http://fm-o.com/php/infos/spiel.php?spiel_id=97397]| AM Monaco|
+|,1 2005/2006| Allez Rennes | [6 - 8 n.E.|http://fm-o.com/php/infos/spiel.php?spiel_id=147249] |'''AM Monaco'''|
+|,1 2006/2007| '''AM Monaco''' | [1 - 0|http://fm-o.com/php/infos/spiel.php?spiel_id=187471;] | Allez Rennes |
+|,1 2007/2008| '''FV Bayern München''' | [5 - 3 n.E.|http://fm-o.com/php/infos/spiel.php?spiel_id=228695] | Manchester Soccer |
+|,1 2008/2009| Manchester Soccer | [0 - 5|http://fm-o.com/php/infos/spiel.php?spiel_id=269506;] | '''AM Monaco''' |
+|,1 2009/2010| '''AM Monaco''' | [2 - 0|http://fm-o.com/php/infos/spiel.php?spiel_id=308068;] | Ethnokos Asteras |
+
+{tags: Internationaler Wettbewerb}

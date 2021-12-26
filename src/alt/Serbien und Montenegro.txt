@@ -1,0 +1,35 @@
+Fußball in '''Serbien und Montenegro''' wird in den beiden Ligen [Prva Savezna|http://fm-o.com/php/tabelle.php?wettbewerb_st_id=218] und [Druga Liga|http://fm-o.com/php/tabelle.php?wettbewerb_st_id=293] ausgetragen. Der Verband heißt Fussballverband Serbien und Montenegro ([FSM-Pokal|http://www.fussballmanager-online.com/php/tabelle.php?ergebnisse=1&wettbewerb_st_id=266]).
+
+! Vereine
+
+|h id|h Name|h Fanbezeichnung|h Stadion|h Gründungsdatum|
+|,1 5406|Baducnost Banatski Dvor|Banatski Dvorer|Mirko Vucurevic|,1 01.01.1938|
+|,1 4751|Crvana Zvezda|Delije|Marakana|,1 04.03.1945|
+|,1 5400|FC Borac Cacak|Cete|Borca kraj Morave|,1 01.01.1926|
+|,1 5401|FC Hajduk Beograd|Beograder|Hajduk Lion|,1 01.01.1937|
+|,1 5404|FC Napredak Krusevac|Krusevacer|Mladost|,1 08.12.1946|
+|,1 5409|FC Pristina|Plisat|Stadtstadion|,1 01.01.1922|
+|,1 5405|FC Smederevo|Ultra-Semendria|Kraj Stare Zelezare|,1 06.05.1924|
+|,1 5403|FC Spartak Subotica|Marinci|Subotica Stadtstadion|,1 01.01.1945|
+|,1 5402|FC Zeta Golubovci|Vukovi Zeta|Tresnjica|,1 01.01.1927|
+|,1 4737|FK Biducnost|Varvari|Pod Goricom|,1 01.01.1925|
+|,1 4744|FK Cikaricki|Cukarickier|Cukaricki|,1 04.07.1926|
+|,1 4747|FK Obolic|Vitezovi|Milos Obilic|,1 01.01.1924|
+|,1 4754|FK Red Beograd|United Force|Kralj Petar I|,1 01.01.1958|
+|,1 4748|FK Sertid|Sartider|Sportski Kompleks Sartid|,1 06.05.1924|
+|,1 4745|FK Zamum|Taurunum Boys|Zemun|,1 01.01.1946|
+|,1 4741|Hejduk Kula|Kulaer|PC Hajduk|,1 01.01.1925|
+|,1 4739|Jevor Ivanjica|Ivanjicaer|Kraj Moravice|,1 01.01.1912|
+|,1 5407|Kum Podgorica|Podgoricaer|Zlatica|,1 01.01.1958|
+|,1 4752|Mugren Budva|Budvaer|Mogren|,1 01.01.1920|
+|,1 4746|OFK Baograd|Plava Unija|Omladinski|,1 01.01.1911|
+|,1 4749|Pertizan Beograd|Grobari|Partizana|,1 04.10.1945|
+|,1 4742|Rednicki Nis|Meraklije|Cair|,1 01.01.1923|
+|,1 4753|Rednicki Obrenovac|Obrenovacer|FK Radnicki|,1 01.01.1927|
+|,1 4743|Ridar Pljevlja|Pljevljaer|Pod Golubinjom|,1 01.01.1920|
+|,1 4740|Sitjeska Niksic|Niksicer|Kraj Bistrice|,1 01.01.1927|
+|,1 5408|Sperta Zemun|Zemuner|Gradski|,1 01.01.1919|
+|,1 4738|Vujvodina Novi Sad|Red Firm|Karadjordje|,1 01.10.1914|
+|,1 4750|Zaleznik Beograd|Beograder|FK Zeleznik|,1 01.01.1930|
+
+{tags: Land}

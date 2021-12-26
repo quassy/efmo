@@ -1,0 +1,10 @@
+Aufwertungsgrenzen halten das Stärkengefüge in einzelnen [Länder|Ländern] und [Ligen] aufrecht, damit in unteren [Ligen] immer schwächere Mannschaften spielen als in den oberen. Somit ist die Aufwertungsgrenze, genauso wie die [Verpflichtungsgrenzen|Verpflichtungsgrenze] ein Mittel, FMO nahe an der Realität zu halten.
+Auch verhindert die Aufwertungsgrenze, dass sich einzelne Mannschaften zu weit von der Liga absetzen.
+
+Die Aufwertungsgrenzen werden dynamisch berechnet. Unter anderem sind sie abhängig von der Durchschnittsstärke der Vereine der Liga. Es ist also möglich, durch geschicktes Arbeiten die Aufwertungsgrenze zu heben. Jedoch wird sie immer unter der der Liga darüber bleiben. Die Aufwertungsgrenze ist für alle Vereine einer Liga gleich hoch, nämlich die maximale [Verpflichtungsgrenzen|Verpflichtungsgrenze] aller Vereine der Liga.
+
+
+'''Beispiel:'''
+Der Spieler Klaus Knipser (19, Stürmer, Gesamtstärke 5,1) spielt in der Oberliga. Er genießt sehr gutes Training, schießt in jedem Spiel 2 Tore und besitzt viel [Talente|Talent] (selbstverständlich versteckt). In der Oberliga liegt die Aufwertungsgrenze zu dem Zeitpunkt (sie ist teilweise dynamisch) bei 5,4. Bei den [AAWs] kann er deshalb nicht weiter als bis 5,4 aufgewertet werden, trotzdem viele Gründe für eine höhere [Gesamtstärke] sprechen.
+
+{tags: Spieler}

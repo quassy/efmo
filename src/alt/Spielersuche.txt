@@ -1,0 +1,5 @@
+Mit Hilfe der Spielersuche kann jeder Manager nach geeigneten Spielern suchen. Es kann eine Vielzahl von Optionen ausgewählt werden, darunter die Nationalität, Position, [Gesamtstärke|Stärke], Alter, [individuelle Fähigkeiten], [Charaktereigenschaften] u.v.m.
+
+Nach dem Klick auf den "Spieler suchen"-Button erscheint eine Übersichtsseite, auf der sämtliche Spieler mit den ausgewählten Eigenschaften aufgeführt werden.
+
+{tags: Spieler, Transfers}

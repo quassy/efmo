@@ -1,0 +1,1 @@
+[Liste aller Seiten|./index.php?action=search&query=]

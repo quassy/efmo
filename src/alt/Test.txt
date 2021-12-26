@@ -1,0 +1,50 @@
+<!--CreoleMarkup-->
+== Kaiserliche Saisonprognose
+[[/|zurück zur Titelseite]]
+
+**Kaiser-News #12**: Knapp eine Woche vor dem {{{Saisonstart}}} sind bereits alle Teams voller Vorfreude auf die Saison. [[http://forum.fm-o.com/thread.php?threadid=14995|Kaiser-News]] wagt einen mehr als riskanten Blick über den Tellerrand hinaus und bewertet sämtliche Teams in der Reihenfolge der Abschlusstabelle 2011.
+
+=== Include
+
+{{{
+some [[code]]
+}}}
+
+=== Weiter
+
+# **1. KA Sturm Graz**
+Ein letztes mal wird das Team aus Graz ganz oben stehen. Im [[NMR|Jahr]] [[darauf]] folgt jedoch aufgrund der Überalterung der Mannschaft der gnadenlose Absturz ins Mittelfeld.
+# **2. FV Tirol Innsbruck**
+In einem spannenden Saisonfinale setzt sich das Team aus Innsbruck grade so durch und erkämpft sich Platz 2. Da wird wohl die größere Erfahrung in den oberen Tabellenregionen eine Rolle spielen.
+# **3. FV Austria Salzburg**
+Nur aufgrund des schlechteren Torverhältnisses muss man sich dieses Jahr noch den Innsbruckern geschlagen geben - den Preis für die schönsten Spiele hätte jedoch Salzburg gewonnen!
+# **4. SK Austria Wien**
+Stammplatz.
+# **5. Grazer FK**
+Nachdem man aus den Fehlern der Vergangenheit gelernt hat gibts den internationalen Startplatz diesmal richtig erarbeitet. Grund dafür ist ein Tor in der Nachspielzeit des letzten Spieltags.
+# **6. SV Pasching**
+Die Überraschungsmannschaft der Saison. Knapp den internationalen Startplatz verpasst, dank des Pokalsiegs jedoch trotzdem fürs internationale Geschäft qualifiziert.
+# **7. 1. Simmeringer SC**
+Nachdem man die Saison über mit Erfolgstaktik ohne ZM und 4 Stürmern spielte, traf sogar Henry mal das Tor - Raus springt Platz 7.
+# **8. KA Rapid Wien**
+Nicht Fisch nicht Fleisch - so taumelt Rapid eine weitere Saison in der Selbstfindungsphase umher. Reicht trotzdem für einen Platz vor Leoben.
+# **9. DSV Leoben**
+Nachdem Pasching UND Rapid vor ihm in der Tabelle landen, wechselt stoffl aus Frust nach Deutschland.
+# **10. FV Ried**
+Nach grottiger Hinrunde findet der neue Manager in der Rückrunde die Zauberformel und rettet sich vom letzten Platz (noch hinter Hartberg!) auf den 10. 
+# **11. SV Kapfenberg**
+Kurz vor dem wirtschaftlichen Ruin verkauft der Verein alle seine Spieler und spielt fortan mit jungen, vereinslosen Spielern weiter. Reicht für den Klassenerhalt und Platz 11.
+# **12. DSG Union Perg**
+Ohne dass es jemand merkt mogelt sich das Team auf Platz 12. Wie konnte das nur passieren?
+# **13. FC BW Feldkirch**
+Die Umstrukturierung zollt ihren Tribut. Nur Platz 13 in der Liga, dafür Halbfinale im AOFA-Cup.
+# **14. SV Oberwart**
+Klassenerhalt souverän 2 Spieltage vor Ende gesichert.
+# **15. SV Wörgl**
+Am 33. Spieltag noch auf einem Abstiegsplatz kehrt Stefan Leitgeb zu seinem Team zurück und macht den Klassenerhalt im direkten Duell doch noch fix.
+# **16. SV Schwechat**
+Kampf bis zum letzten Tag, aber es reicht leider nicht ganz.
+# **17. Linzer ATL**
+Nachdem die Erfolgstaktik von Leo geklaut und kopiert wurde, bleibt den Linzern nur noch der Abstieg.
+# **18. TSV Hartberg**
+Nur ein Sieg in der Hinrunde (gegen Ried) und eine Rekord-Tordifferenz von -842 halten den Manager nicht davon ab, von einem großen Erfolg zu sprechen und den Abstieg mit Tausenden von Fans auf dem Hartplatz zu feiern.

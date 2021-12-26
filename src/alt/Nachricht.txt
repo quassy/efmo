@@ -1,0 +1,10 @@
+Bei FMO habt ihr 2 Möglichkeiten, andere Manager zu kontaktieren. Zum einen die normale Ingamenachricht, zum anderen die Foren-PN. 
+
+Da wäre zum einen die '''Ingamenachricht''' (häufig auch '''FMO-Mail''' oder IG), die ihr unter ''Organisation › Mail schreiben'' verfassen könnt. Alternativ habt ihr in der [Spielerinfo] einen Link "Mail an Manager", von dem aus ihr automatisch zum "Mail schreiben"-Fenster kommt. Denselben Link findet ihr auch in der Managerübersicht.
+Wenn ihr eine Nachricht schreibt habt ihr die Möglichkeit, einen Haken bei "Empfangbestätigung" zu setzen - in dem Fall erhaltet ihr eine automatische Nachricht, sobald eure Nachricht gelesen wird.
+
+Die andere Möglicht ist die '''persönliche Nachricht''' im [Forum] (häufig nur '''PN'''). Unter jedem Beitrag habt ihr die Schaltfläche "PN", mit der ihr direkt weitergeleitet werden und nur noch Betreff und Nachricht schreiben müsst. Auch hier habt ihr natürlich die aufwendige Variante: In eurer PN-Box habt ihr unter den gespeicherten Mails den Button "Neue Mail". Wenn ihr diesen benutzt denkt jedoch daran den Empfänger auszuwählen. Eine PN bietet wesentlich mehr Möglichkeiten zur Formatierung (diese gleicht der [Forum#Formatierung|Formatierung in Forenbeiträgen]).
+
+Sowohl im Spiel selbst wie auch im Forum werden automatisch eingehende und abgehende Mails gespeichert. Im Forum habt ihr zusätzlich den Unterpunkt "Nachrichtenüberwachung", dort seht ihr automatisch welche von euren Nachrichten schon gelesen wurden. Bei ungelesen Nachrichten habt ihr zusätzlich die Möglichkeit, diese zu annullieren, das geht im Spiel selbst nicht. Mit "Nachrichtenüberwachung beenden" könnt ihr die Mails aus der Übersicht löschen.
+
+{tags: Community}

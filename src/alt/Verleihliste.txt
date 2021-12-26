@@ -1,0 +1,22 @@
+Auf der Verleihliste findest du alle Spieler die von ihren Verein zum Verleih freigegeben sind. Hier hast du die Möglichkeit Spieler bis zum Ende der [Spieljahr|Saison] bei Übernahme des Vertrages (Ausnahme: [Stammplatzgarantie]) für eine feste Leihgebühr plus [Beraterhonorar] auszuleihen. 
+
+! Spieler ausleihen
+Um einen Spieler auszuleihen öffne zunächst die [Spielerinfo] und wähle dort "Spieler ausleihen".
+Du bekommst nun noch einmal eine Übersicht über den Vertrag des Spielers den du, bis auf eine eventuelle [Stammplatzgarantie] (fällt weg), 1 zu 1 übernehmen musst. Zusätzlich musst du dem Verein noch die Leihgebühr bezahlen, die nicht veränderbar ist, und außerdem wird ein [Beraterhonorar] fällig.
+
+Über den Button "abschicken" schickst du die Anfrage ab. Der Spieler wird sich dann umgehend bei dir melden und dir mitteilen ob er überhaupt daran interessiert ist für deinen Verein zu Spielen. Dies richtet sich nach Stärke des Spielers, des Vereins und der Liga. Wenn der Spieler für deinen Verein spielen möchte, hat der andere Verein 4 Tage Zeit um das Leihgeschäft zu bestätigen. Erhältst du innerhalb dieser 4 Tage keine Antwort kannst du dies als Absage ansehen.
+
+! Spieler verleihen
+Ein Verein kann einen seiner Spieler verleihen, indem man im Mannschafts-Menü (unter "Kader, aktuell") in der Spalte "Verleih" das Kästchen hinter dem zu verleihenden Spieler markiert. Damit wird der Spieler auf die Verleihliste gesetzt.
+
+! Regeln und Hinweise
+*Spieler werden '''nicht''' für eine bestimmte Anzahl von Monaten geliehen, sonder immer bis zum Saisonende. 
+*Du kannst nur Spieler verleihen, die schwächer als der Durchschnitt der 15 stärksten Spieler des Vereins (DS15) sind. (Spieler unter 18 Jahren werden '''nicht''' mitgerechnet)
+*Du kannst jedem Spieler nur 1x in 30 Tagen eine Leihanfrage schicken.
+*Du kannst pro [Spieljahr|Saison] max. 5 Spieler ausleihen und 5 Spieler verleihen.
+*Das Verleihen/Leihen nach der Winterpause ist auf maximal 2 Spieler beschränkt.
+*Spieler, die bereits in einem internationalen Wettbewerb spielten, können für den Leihverein an diesen nicht mehr teilnehmen.
+*Es ist nicht möglich eine Leihe nach Abschluss des Leihvertrages aufzulösen.
+*Spieler mit auslaufendem Vertrag können nicht verliehen werden. Ausnahme sind Spieler mit [Karriereende]
+
+{tags: Transfers}

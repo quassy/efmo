@@ -1,0 +1,7 @@
+{menu(manager.html)
+  parent=[Christoph Kuhlmann]
+  [37354]
+} 
+{tags: Manager}
+
+'''Christoph Kuhlmann''' ist Trainer des israelischen Erstligisten [Hepoel Nazareth Ilit]. Aufgrund seiner streitbaren Persönlichkeit eckt er oft in den Diskussionen im Forum an.

@@ -1,0 +1,7 @@
+Die Gesamtstärke eines Spielers bildet sich aus dem Durchschnitt seiner 7 (Feldspieler) bzw. 5 (Torhüter) [Einzelstärken|Einzelstärke]. Sie kann sich nur bei den [AAW] verändern.
+
+Zusätzlich zu den Einzelstärken besitzt jeder Spieler noch die Attribute "Kondition, Motivation und Frische" die sich auf die [Einsatzstärke] auswirken. Dadurch kann diese teilweise erheblich von der Gesamtstärke abweichen.
+
+Der zur Zeit (2006) beste Spieler ist der deutsche Torwart [Sven Dottman|http://www.fussballmanager-online.com/php/infos/spieler.php?spieler_id=12328;]. 
+
+{tags: Spieler, Training}

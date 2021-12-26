@@ -1,0 +1,11 @@
+{menu(manager.html)
+  parent=[Helmar Wildenhain]
+  [105]
+} 
+{tags: Manager}
+
+'''Helmar Wildenhain''' ist Manager des Topclubs [AM Monaco].
+
+! Trivia
+
+* Das FMO-Forum wurde eine Zeit lang von Helmar Waidenhain gehostet.
