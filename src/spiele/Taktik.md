@@ -1,3 +1,5 @@
+# Taktik
+
 Die Taktiken sind mit der [Aufstellung] zusammen das Herzstück zur Spielberechnung bei FM-O. Jedoch sind sie teilweise relativ komplex, wenn man mehrere Dinge gleichzeitig machen möchte.
 
 Die Grundeinstellungen zu Spielbeginn bei Härte, Einsatz und Taktik sind jeweils "normal". Möchte man mit "normal" in einem dieser Bereiche beginnen, und hat dies auch eingestellt, wird bei "ausgeführt" immer "nein" stehen, da es ja von vornherein schon so war, und daher keine Taktikänderung nötig war.
@@ -70,4 +72,15 @@ Nicht schön, aber selten und unpraktisch. Die Bedingung ist auch zu Spielbeginn
 
 Besser: Einfügen einer weitern Minutenbedingung, sowas wie ''und Minute größer 70''. Damit wird der Spieler zwischen der 71. und 79. Minute eingewechselt.
 
-{tags: Aufstellung und Taktik}
+## Einsatz
+
+Der Einsatz ist eine [Taktik], die man für eigene Spiele vornehmen kann. Die Standardeinstellung für Einsatz, sofern kein anderer eingestellt ist, ist immer "normal".
+
+Es gibt 5 Stufen von Einsatz:
+*"kein"
+*"wenig"
+*"normal"
+*"hoch"
+*"sehr hoch"
+
+Alle 5 Stufen sind Abstufungen und haben Vor- und Nachteile. Bei höherem Einsatz als "normal" steigt die Stärke des eigenen Teams leicht an, weil man mehr Einsatz zeigt. Dafür steigen das Verletzungsrisiko, das Risiko auf Karten, und der Verlust von [Frische] auch mit höherem Einsatz. Bei niedrigerem Einsatz als "normal" ist es genau umgekehrt.

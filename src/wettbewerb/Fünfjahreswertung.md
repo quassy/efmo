@@ -1,3 +1,5 @@
+# Fünfjahreswertung
+
 Die '''Fünfjahreswertung''' (in Anlehnung an die [Fünfjahreswertung|http://de.wikipedia.org/wiki/UEFA-Fünfjahreswertung]) entscheidet über die Anzahl der Teilnehmer eines [Länder|Landes] in den internationalen Wettbewerben ([Champions League], [AOFA-Cup], [CL-Quali]). Für eine gute Platzierung eines Landes sind die Leistungen der entsprechenden Teams in den internationalen Wettbewerben entscheidend. 
 
 Die Liste wird zur Zeit von einem FMO-Manager verwaltet, den aktuellen Stand kann man im [Forum|Foren]-Thread [AOFA 5-Jahreswertung|http://forum.fussballmanager-online.com/thread.php?threadid=13549] einsehen.

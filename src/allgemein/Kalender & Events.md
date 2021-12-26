@@ -6,9 +6,7 @@ Die wichtigste Option im Kalender ist jedoch, dass [Events], [Freundschaftsspiel
 
 Man kann sich auch auf von anderen Teams ausgerichtete [Freundschaftsspiel|Freundschaftsspiele] oder [Fun-Freundschaftsspiel|Fun-Freundschaftsspiele] bewerben. Dies geschieht über einen Klick auf "X freie Veranstalter".
 
-{tags: Events}
-
-# Events
+## Events
 
 '''Events''' oder auch '''Ereignisse''' koennen vom Manager eines Vereins ueber den Kalender eingestellt werden. Die meisten Events haben (für die Spieler) den gleichen Effekt wie ein freier Trainingstag (kein Training wird durchgeführt) oder wirken sich auf die Fitness der Spieler aus. Sonderfälle sind das [Freundschaftsspiel] (welches sich wie ein Pflichtspiel auswirkt) und [Fun-Freundschaftsspiel] (welches gar keine Auswirkungen hat). Mit Ausnahme des FFS sind alle Events kostenpflichtig. 
 
@@ -22,15 +20,12 @@ Beim Vereinsfest sind alle eingeladen, die irgendetwas mit dem Verein zu tun hab
 ! Verbandsfest
 Zum Verbandsfest werden Würdenträger des Verbands eingeladen. Die Spieler haben frei. 
 
-
 ! Sponsorentag
 ''Für detaillierte Infos siehe [Sponsorentag].''
 
 Beim Sponsorentag werden die Sponsoren zu einem kleinen Treffen eingeladen, um sich von der Arbeit des Managers zu überzeugen. Als Dank für die Aufmerksamkeit überweisen die Sponsoren daraufhin einen Betrag von 5% der [Jahressponsorengelder|Sponsorenvertrag] des Vereins. Die Spieler haben '''frei'''.
 
-Ein Sponsorentag kann nur '''einmal''' pro Saison durchgeführt werden, Wiederholungen werden vom Vorstand abgesagt. 
-
-
+Ein Sponsorentag kann nur einmal pro Saison durchgeführt werden, Wiederholungen werden vom Vorstand abgesagt.
 
 ! Familientag
 Die Familien der Spieler werden zu einer Besichtigung des Arbeitsplatzes eingeladen. Die Spieler freut's, die Frauen und Kinder auch. Die Spieler haben frei. 
@@ -62,16 +57,8 @@ Vorstand, Spieler, Familien und Manager kommen zusammen, um der Saison einen Abs
 ! Freundschaftsspiel
 ''Für detaillierte Infos siehe [Freundschaftsspiel].''
 
-Ein Spiel um die eigenen Mannschaft zu testen, aber auch um Geld zu verdienen. Die Einnahmen aus Ticketverkäufen werden zwischen beiden Vereinen geteilt. Kann nur '''fünfmal''' in einer Saison veranstaltet werden. 
-
 ! Fun-Freundschaftsspiel
 ''Für detaillierte Infos siehe [Fun-Freundschaftsspiel].''
 
-Ein reines Testspiel um die eigene Mannschaft zu testen. Hat keine Auswirkung auf die Spielerwerte, Spieler können sich nicht verletzen, das Training findet wie gewohnt statt und ein FFS ist zudem noch kostenlos. 
-
 ! Scouting
 ''Für detaillierte Infos siehe [Scouting].''
-
-Bei diesem Event hält der Verein Ausschau nach neuen Jugendspielern. Kann nur '''dreimal''' pro Saison stattfinden, solltet ihr weitere Scoutings veranstalten werden diese ''nicht'' abgesagt, ihr müsst also trotzdem den vollen Betrag zahlen und habt kein Training. Die Spieler haben '''frei'''. 
-
-{tags: Events, Finanzen}
