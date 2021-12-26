@@ -1,5 +1,0 @@
-Die Trainingsstärke gibt an wie gut Spieler auf das [Training|Mannschaftstraining] reagieren. Sie wird auf einer Skala von 1-12 angegeben wobei 1 den schlechtesten und 12 den besten Wert darstellt. Spieler mit hoher Trainingsstärke werden ihre [Trainingswerte|Trainingswert], bei der gleichen Trainingseinheit, gegenüber Spielern mit kleinerer Trainingsstärke schneller verbessern.
-
-Bei gutem Training kann die Trainingsstärke eines Spielers bei den Saisonabschluss-[AAW] um +1 steigen. Bei schlechtem Training kann sie um -1 fallen. Da Spieler mit einer hohen Trainingsstärke im allgemeinen bessere Trainingswerte haben, als Spieler mit geringer Trainingsstärke, werden bei den AAW nur Spieler gleicher Trainingsstärke miteinander verglichen.
-
-{tags: Spieler, Training}

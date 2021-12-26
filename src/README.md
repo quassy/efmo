@@ -1,7 +1,7 @@
-# mdBook Quickstart
+# Willkommen
 
-Welcome to the demo site for mkBook Quickstart.
+Willkommen bei der Neuauflage der EFMo-Wiki. Hier findet ihr wirklich alles, was ihr wissen müsst! 
 
-View source:
+Ein Teil unseres Inhalts wurde vor Jahren von der damals inoffiziellen [~FMO-Wiki~](http://www.dementia04.de/fmo/mediawiki/index.php/Hauptseite) übernommen. Zu allgemeinen Hilfe-Themen findest du dort im Zweifel mehr bzw. aktuellere Informationen. 
 
-[![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
+Zum Mitarbeiten nutze bitte das [Verzeichnis auf GitHub](https://github.com/quassy/efmo). Hier kannst du die Datei für einen Pull-Request bearbeiten oder ein Ticket für einen Änderungswunsch erstellen. Alternativ schreib eine Ingame-Nachricht.

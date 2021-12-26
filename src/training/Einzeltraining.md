@@ -5,5 +5,3 @@ Hier hast du all deine aktuellen Kicker im Überblick. Über die Spalte "Einzelt
 Das Einzeltraining kann man nutzen, um bestimmte Schwachstellen im Training gezielt zu beheben. Von vielen Managern wird es auch gern genutzt, um die Reserve nach Spieltagen zu trainieren, während die Spieler, die gespielt haben frei bekommen.
 
 '''Hinweis:''' Torhüter nehmen mit Ausnahme der Trainingseinheit "Individuelles Training" (und "Frei") nicht am Mannschaftstraining teil, sondern trainieren '''immer''' Einzeltraining. Also zumindest bei den Torhütern regelmäßig das Einzeltraining ändern. Feldspieler dagegen profitieren eher von den gemeinsamen Einheiten, Einzeltraining hat bei ihnen eine andere Wirkung.
-
-{tags: Training, Einsteigerhilfe}
