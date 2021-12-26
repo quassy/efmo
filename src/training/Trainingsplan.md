@@ -8,6 +8,7 @@ Je höher ein Trainingswert ist, desto langsamer steigt er beim Training und des
 
 Regenerationseinheiten sind Einheiten, die auf die [[Form]] abzielen. Regenerationseinheiten erhöhen zwar Motivation und Frische der Spieler, sollten in Anbetracht des relativ hohen Abzuges auf die Trainingswerte, allerdings mit Bedacht eingesetzt werden.
 
+|--------------|---------------------|
 | Auslaufen    | Frische, Kondition  |
 | Frei         | Frische, Motivation |
 | Regeneration | Frische             |
@@ -20,6 +21,7 @@ Die folgende Tabelle gibt einen ersten Einblick über die Effekte der einzelnen 
 
 Aber '''Vorsicht''': Sie dient nur als '''grobe''' Orientierung und ist als Einstiegshilfe gedacht - eine persönliche, intensivere Auseinandersetzung mit den jeweiligen Trainingseffekten ist zu empfehlen!
 
+|----------------|------------------------------------------|
 | 1 gegen 1      | Herauslaufen, Ballsicherheit             |
 | Direktschüsse  | Reflexe, Paraden                         |
 | Fangen         | Reflexe, Ballsicherheit                  |
@@ -41,6 +43,7 @@ Die folgende Tabelle gibt einen ersten Einblick über die Effekte der einzelnen 
 
 Aber '''Vorsicht''': Sie dient nur als '''grobe''' Orientierung und ist als Einstiegshilfe gedacht - eine persönliche, intensivere Auseinandersetzung mit den jeweiligen Trainingseffekten ist zu empfehlen!
 
+|------------------|--------------------------------------------|
 | Alleingang       | alles, außer Kopfball                      |
 | Dribbling        | Technik und Zweikampf                      |
 | Fußballtennis    | Kopfball, Schussgenauigkeit und Technik    |
@@ -60,6 +63,7 @@ Da die [[Einzelstärken]] der Spieler unterschiedlich stark durch die Trainingse
 
 Durch [[individuelles Training|individuelles Training]] werden die [[individuelle Fähigkeiten|individuellen Fähigkeiten]] gesteigert. Die Spieler trainieren sonst nicht, weswegen die restlichen Trainingswerte unter diesem Training leiden. Daher sollte man diese Trainingsform sehr dosiert nutzen.
 
+|------------------------|----------------------------------------------|
 | Einzeltraining         | jeweils eingestellter Trainingswert          |
 | Individuelles Training | eingestellte Fähigkeit wird weiterentwickelt |
 

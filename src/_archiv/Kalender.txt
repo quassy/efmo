@@ -1,7 +1,0 @@
-Der Kalender zeigt die eigenen Spiele in der Vergangenheit und Zukunft (soweit bereits feststehend) an. Auch Events oder wichtige Termine (z.B. Finale der [Pokalspiele|nationalen Pokale], Schließung der [Transferliste], etc.) werden im Kalender angezeigt.
-
-Die wichtigste Option im Kalender ist jedoch, dass [Events], [Freundschaftsspiel|Freundschaftsspiele] und [Scouting|Scoutings] geplant und eingestellt werden können. Dies geschieht über einen Klick auf einen freien Tag, woraufhin ein Drop-Down-Menü zur Auswahl der Veranstaltung erscheint.
-
-Man kann sich auch auf von anderen Teams ausgerichtete [Freundschaftsspiel|Freundschaftsspiele] oder [Fun-Freundschaftsspiel|Fun-Freundschaftsspiele] bewerben. Dies geschieht über einen Klick auf "X freie Veranstalter".
-
-{tags: Events}
