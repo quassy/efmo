@@ -1,0 +1,18 @@
+Für die '''Neuanmeldung''' bei FM-O wird jeder Manager aufgefordert, seinen echten persönlichen Daten in die dafür vorgesehenen Felder einzugeben. Sollten die angegebenen Daten nicht der Wahrheit entsprechen wird der Account gelöscht. Bei FM-O werden, unter anderem zum Schutz vor Multis (User mit mehreren Accounts), keine [Nicknamen|http://de.wikipedia.org/wiki/Nickname] verwendet. Accounts, bei denen ersichtlich ist, dass es sich nicht um reale Personen handelt (z.B. "Krassa Chegga"), werden kommentarlos gelöscht. 
+
+'''Hinweis''': Sollte es schon mehrere Personen mit dem gleichen Namen im Spiel gegeben haben, wird hinter den Namen eine Zahl gesetzt (z.B. "Hans Müller2"). Diese steigt mit der Anzahl der Spieler gleichen Namens. Falls also der eigentliche Name nicht sofort funktioniert, einfach ein paar Zahlen hinten dransetzen, bis es klappt.
+
+Nach Eingabe des Passwortes wird die Anmeldung mit einem Klick auf "Anmelden" bestätigt, mit welcher man automatisch die auf der Anmeldeseite zu findenen Regeln aktzeptiert. Die eingegebenen Daten werden dabei von FM-O nicht weitergegeben. 
+
+Anmeldung und Spielen bei FM-O sind völlig kostenfrei (bis auf die Internetgebühren), da sich FM-O ausschließlich über im Spiel geschaltete Werbung finanziert. Je mehr Banner geklickt und fertig geladen werden, desto besser für das Spiel.
+
+Um die Anmeldung zu bestätigen muss der Link der in der (an deine E-Mail-Adresse geschickte) Bestätigungsmail enthalten ist angeklickt werden. Die Bestätigungsmail kommt nicht immer sofort, solltest du auch nach längerer Zeit (einige Minuten) keine erhalten haben, schau zu erst in deinen Spamordner und melde dich dann gegebenenfalls bei einem Admin. 
+
+Nach der (bestätigten) Anmeldung kommst du sofort auf die Warteliste, 2 Tage später kannst du dann einen bisher '''freien''', d.h. einen Verein, der noch keinen Manager hat, übernehmen. Es ist immer ratsam sich nicht sofort einen Verein auszusuchen sondern erstmal alle freien Vereine durchzuchecken. Dabei solltest du vor allem auf Alter, Verträge und Stärke der Spieler des Vereins achten. Auch die Größe des Stadions und der Liga sind wichtig. Es kann dabei nie schaden, sich von einem erfahrenen Manager (z.B. im Forum oder im IRC) beraten zu lassen. 
+
+! Links
+*[Anmeldeformular|http://www.fussballmanager-online.com/php/anmeldung/]
+*[Freie Vereine|http://www.fussballmanager-online.com/php/vereins_liste.php?status=frei]
+*[Forum "Freie Vereine - bei welchem soll ich anfangen?"|http://forum.fussballmanager-online.com/thread.php?threadid=14709]
+
+{tags: Einsteigerhilfe}

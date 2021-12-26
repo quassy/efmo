@@ -1,0 +1,8 @@
+Mittels der [Taktik|Taktiken] können Spieler bei FM-O '''ein- oder ausgewechselt''' werden. Dabei gelten folgende Regeln:
+
+# Es sind in jedem Spiel maximal 3 Wechsel möglich. Ausgeführt werden die ersten 3 nach taktischen Bedingungen möglichen Wechsel.
+# Verletzte Spieler werden automatisch ausgewechselt. Wenn der TW rot oder gelb/rot sieht, wird automatisch der Ersatz-TW für den stärksten Stürmer eingewechselt.
+# Eingewechselte Spieler kommen auf die Position des ausgewechselten Spielers.
+# Bei Spielern mit [Stammplatzgarantie], die in der ersten Halbzeit ausgewechselt werden, wird eine Strafe fällig. Ausnahme sind verletzungsbedingte Auswechslungen.
+
+{tags: Aufstellung und Taktik}

@@ -1,0 +1,14 @@
+Die '''Ausländerregel''' legt fest, wieviele Spieler mit der selben Nationalität wie der [Ligen|eigenen Liga] im Kader stehen müssen (also z.B. georgische Spieler in einem georgischen Verein). Transferverhandlungen werden bei Unterschreitung der Mindestanzahl durch einen der beteiligten Vereine abgebrochen, d.h. nach einem Transfer müssen sowohl der abgebende Verein als auch der Zielverein sowohl in der laufenden Saison als auch in der nächsten Saison die Regel immer noch erfüllen.
+
+Zudem gibt es eine '''Regelung für AOFA-Ausländer''', so dass maximal drei Spieler aus solchen Ländern (die zur Zeit keine Liga bei FMO haben) gleichzeitig auf dem Platz stehen dürfen. 
+
+! Staffelung der Ausländerreglung im Kader
+
+|h Kadergröße |h Mindestanzahl der Inländer |
+|weniger als 21|1,1 5|
+|1,1 21 bis 24|1,1 6|
+|1,1 25 bis 28|1,1 7|
+|1,1 29 bis 32|1,1 8|
+|1,1 33 bis 36|1,1 9|
+
+{tags: Transfers, Spieler}

@@ -1,0 +1,46 @@
+Es gibt verschiedene Arten von '''Vertragsverhandlungen''' mit deinen Spielern. Zum einen gibt es Vertragsverhandlungen mit Spielern im Falle eines Transfers, zum andern, um den Vertrag des Spielers zu verlängern. Der Punkt Vertragsauflösungen ist eigentlich nur für sehr schlechte Spieler wichtig, die man anders nicht mehr loswerden kann. 
+
+!  Vertragsverhandlungen bei Transfers 
+
+Zuerst klickt man in der [Spielerinfo] auf '''Angebot schreiben'''. Die daraufhin abgeschickte Interesse-Mail wird vom Spieler mit Zustimmung oder Ablehnung beantwortet. Man kann die Verhandlungen nur beginnen, wenn der Spieler sich eine Verpflichtung vorstellen kann. Ist der Spieler oberhalb der [Verpflichtungsgrenze] des Vereins, wird er die Anfrage von vornherein dankend ablehnen.
+
+Bei einer '''Zustimmung''' kommt man über den ''Beantworten''-Button zur Vertragsverhandlung. Per [Verhandlungsassistent] schickt man ein maximales Vertragsangebot an den Spieler. Der Assistent versucht sich dann mit dem Spieler auf einen Vertrag zu einigen. 
+
+Die eingetragene Ablösesumme ist für den Spieler ein wichtiges Kriterium welches Vertragsangebot er annehmen will. Er kann an dieser seine Bedeutung für den interessierten Verein abschätzen. Je wichtiger er dem neuen Verein erscheint, desto eher würde er auch Gehaltseinbußen hinnehmen. Je unwichtiger er erscheint, desto mehr will er haben. Zudem ist es anschließend nicht möglich, dem verkaufenden Verein weniger als die hier angegebene Summe zu bieten - man sollte die angegebene Summe also gut abwägen. 
+
+!!  Sonderfall: Angebot an eigene Spieler 
+
+Dies ist eigentlich nicht der "normale Weg" um die Verträge der eigenen Spieler zu verlängern (siehe nächster Absatz): Man kann, wenn ein fremder Verein Vertragsverhandlungen mit den eigenen Spielern aufgenommen hat, in diese Verhandlungen einsteigen und somit relativ leicht die eigenen Verträge verlängern. Dabei spielt im Gegensatz zur Vertragsverhandlung mit fremden Spielern die eingetragene Ablösesumme keine Rolle, da der Spieler bei dem eigenen Angebot den Verein ja eh nicht wechseln würde. 
+
+Wenn man plant einen Spielervertrag zu verlängern und dieser sich gerade in Vertragsverhandlungen befindet, kann diese Methode von Vorteil sein, da zum einen die Motivation des Spielers keine Rolle spielt (siehe unten) und zum der Verhandlungsassistent die eigentliche Vertragsverhandlung für einen übernimmt.  
+!  Vertragsverlängerung 
+
+Über den Menüpunkt ''[Profi-Kader|Mannschaft > Spielerkader]'' kann man durch einen Klick auf ''verhandeln'' hinter dem gewünschten Spieler auswählen, ob man den Vertrag des Spielers auflösen oder ihm eine '''Vertragsverlängerung''' anbieten möchte.
+
+Bietet man ihm eine Vertragsverlängerung an, kommt man zu den Vertragsverhandlungen mit dem Spieler, die aber in diesem Fall ohne Verhandlungsassistenten geführt werden. Das abgeschickte Vertragsangebot nimmt der Spieler an oder nicht. Der Spieler verliert bei unzureichenden Angeboten auch Motivation, daher sollte man bei Vertragsverlängerungsverhandlungen behutsam vorgehen. (Mehr Infos auch in [Tipps bei Vertragsverhandlungen].)
+
+Man muss immer 3 Monatsgehälter des angebotenen Vertrages auf dem Konto haben, damit das Präsidium das Abschicken des Verlängerungsangebots erlaubt. 
+
+Verlängert man einen Spieler auf mehr als 2 Jahre Restlaufzeit, so kann man den Spieler 4 Monate lang nicht auf die [Verkaufs-Transferliste] setzen. Eine Verlängerung ist nur alle 3 Monate möglich und auch nur, wenn der Spieler weniger als 5 Jahre Vertrag hat.
+
+!  Vertragsauflösung 
+
+Statt zu verlängern kann man einen Spieler auch abfinden und somit seinen '''Vertrag auflösen'''. Dies kostet immer weniger, als der Spieler für die Restvertragslaufzeit an Gehalt bekommen würde. Wenn man einen Vertrag auflöst, landet der Spieler auf der Vereinslosen-Liste. Diese Option ist daher immer mit Vorsicht zu genießen, da der Spieler dann erst mal unwiederbringlich weg ist!
+
+Man kann die Verträge von Spielern nur auflösen, wenn der Spieler mindestens 23 Jahre alt ist und seine Stärke mindestens 2 Punkte unterhalb der Durchschnittsstärke des eigenen Vereins ist. Bei Spielern bis zu einer Stärke von 2.5 ist Kündigen auch mit niedrigerer Durchschnittsstärke möglich.
+
+! Tipps für Verträge
+
+Bei den Verhandlungen sollte man jedem Vertragspunkt eine Bedeutung zumessen. Allgemein gilt: 
+
+* '''[Unverkäuflichkeitsklausel]''' sind sehr teuer und können erst per Verlängerung aus einem Vertrag "rausverlängert" werden. Überlege dir gut, ob du dir das leisten willst. 
+* '''[Stammplatzgarantie]''' konnten schon so manchen Spieler zur Unterschrift bewegen bzw. senken die Gehaltskosten. Sei dir aber bewusst, dass du eine empfindliche Geldstrafe - maximal 150.000 € - zahlen musst, wenn dieser Spieler nicht von Beginn an aufläuft und mindestens eine Halbzeit durchspielt. 
+* Auch die '''Vertragsdauer''' hat Auswirkungen auf die Gehaltsvorstellungen, so bevorzugen junge Spieler kürzere Verträge und lassen sich für lange Laufzeiten kräftiger entlohnen, während es bei älteren Spielern genau andersherum ist. 
+* Auch die Prämien in Verknüpfung mit den eigenen Einsatzchancen des Spielers haben Auswirkungen auf die Gehaltsvorstellungen. So wird der neue Topspieler im Mittelfeld für mehr Prämien weniger Grundgehalt zulassen, da er auf mehr Einsätze hofft, wohingegen ein designierter Bankspieler keinen großen Wert auf Prämien legt, weil er sich sowieso kaum Einsatzchancen ausrechnet. Auch dem Torwart sind somit Millionen von Torprämie egal, weil er höchstwahrscheinlich sowieso kein Tor schießen wird. Sollte er es doch tun, weil er z.B. als [Schützen|Elfmeterschütze] des Teams eingeteilt ist, kostet die eventuell hohe Torprämie natürlich dem Verein.
+* Zudem ändern sich die Gehaltsvorstellungen auch bei Angabe einer '''[Fixe Ablöse|Fixen Ablöse]'''.
+
+Speziell bei einer normalen (über ''Mannschaft > Spielerkader'') Vertragsverlängerung gilt: 
+
+* '''Unzufriedene Spieler''' (Motivation < 100) verlängern nicht so gerne, also nicht wundern wenn Spieler bei niedriger [Motivation] selbst gute Angebote manchmal ausschlagen. Wenn du aktuell beispielsweise nur 10 Spieler zur neuen Saison unter Vertrag hast, dann kannst du es schrittweise versuchen und musst, wenn du bald mit den ersten Verlängerungen beginnst, nichts überstürzen. So kannst du bei den Stars im Team ein bisschen rumprobieren und musst nicht gleich den „Monster-Vertrag“ bieten, den der Spieler dann in jedem Fall unterschreiben muss.
+
+{tags: Transfers}

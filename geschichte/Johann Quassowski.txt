@@ -1,0 +1,13 @@
+{menu(manager.html)
+  parent=[Johann Quassowski]
+  [420]
+} 
+{tags: Manager}
+
+'''Johann Quassowski''' (geb. am 22.01.1987 in Bad Godesberg bei Bonn) ist der Teamchef des Griechischen Klubs [AO Kevala]. Er ist einer der über lange Zeit gesehen aktivsten Manager im FMO-Forum. Außerdem ist er noch redaktioneller Leiter der Zeitung [EFMo|http://efmo.pytalhost.de], die er zusammen mit seinem Bruder [Martin Quassowski] als technischem Leiter führt.
+
+! Trivia
+
+* Johann Quassowski hat nie einen anderen Klub ausser AO Kevala geleitet.
+* Ihm wurden in der ersten Saison einmal von Bart Romanski für 2 Wochen die Schreibrechte entzogen.
+* Johann Quassowski's Bruder leitet den serbischen Erstligaklub Novi Sad, war aber früher ebenfalls in Griechenland, bei PAOK Saloniki aktiv.

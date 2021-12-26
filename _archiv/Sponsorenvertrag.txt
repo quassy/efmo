@@ -1,0 +1,34 @@
+Der '''Sponsorenvertrag''' ist neben den Zuschauereinnahmen die zweite wichtige Einnahmequelle für einen Großteil aller Vereine. Er wird jeweils zu Saisonbeginn ausgehandelt und gilt für eine Saison.
+
+! Höhe des Vertages
+
+Für die maximale Höhe des Sponsorenvertrages gelten folgende Einflussparameter:
+* Erreichter Tabellenplatz Vorjahr
+* Erreichte Punktezahl Vorjahr
+* Stärke der Liga
+* Stärke des Teams
+* Platzierung/Punkte des Landes in der 5-Jahres-Wertung
+* Deutlich besseres/schlechteres Abschneiden als erwartet
+
+Für Teams mit besonders kleinen Stadien kommt noch eine kleiner Bonus drauf, um Nachteile bei den Zuschauereinnahmen auszugleichen. Ein größeres Stadion wird aber immer mehr Einnahmen generieren, als über die Sponsorenverträge ausgeglichen wird.
+
+! Prämien und Gelder
+
+Der Sponsorenvertrag beinhaltet folgende Punkte:
+
+'''Grundbetrag (monatlich):''' Der monatliche Grundbetrag. Er wird jeweils am 1. Tag des Monats überwiesen.
+
+'''Erster Platz:''' Prämie für das erreichen des ersten Platzes in der eigenen [Ligen|Liga].
+
+'''Internat. Wettbewerb:''' Prämie für das erreichen eines internationalen Wettbewerbs. Der UI-Cup zählt dabei auch als internationaler Wettbewerb. Erreicht man den internationalen Wettbewerb per Meisterschaft oder Pokalsieg, entfällt die Prämie "Internat. Wettbewerb".
+
+'''Nat. Pokal-Sieg:''' Prämie für den Gewinn des Nationalen Pokals.
+
+'''AOFA-Pokal-Sieg:''' Prämie für den Gewinn des [AOFA-Cup|AOFA Pokals].
+
+'''CL-Sieg:''' Prämie für den Gewinn der [Champions League].
+
+
+Alle Erfolgsprämien werden am Saisonende ausgezahlt. Wenn du einen [Sponsorentag] machst, bekommst du 5% deiner jährlichen Fixsumme als Prämie ausgezahlt.
+
+{tags: Finanzen}

@@ -1,0 +1,7 @@
+Der '''Marktwert''' ist ein automatisch berechneter Wert eines Spielers. Der Marktwert ist abhängig vom Alter, der [Gesamtstärke], der Stärke seines Vereins und seiner [Liga], den [Individuellen Fähigkeiten|Individuelle Fähigkeiten], dem [Gehalt|Spielergehalt] und der Restvertragslaufzeit. Dieser Wert ist ein Basiswert, der z.B. Limits bei einem Verkauf über die [Verkaufs-Transferliste] festlegt. Zu finden ist er unter anderem in der Spielerinfo und in der Vertragsübersicht.
+
+Die Bezeichnung ''Marktwert'' ist jedoch allgemein irreführend, da die tatsächlich gezahlten Ablösen normalerweise weit vom Marktwert abweichen! Generell kann gesagt werden, dass junge Spieler (<30) deutlich über dem Marktwert den Verein wechseln. Bei [Abwerbe-Transferliste|Abwerbungen] ist dies meist der Fall. 
+
+''Solltest du dir nicht sicher über den Wert eines Spielers sein, frage einfach im FMO-Forum ([Fragen|http://forum.fussballmanager-online.com/board.php?boardid=85]) oder einen erfahrenen Manager deines Vertrauens, bevor du eine falsche Entscheidung triffst.''
+
+{tags: Transfers}

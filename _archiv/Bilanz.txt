@@ -1,0 +1,38 @@
+Die '''Bilanz''' findet sich im Menü unter Verein-->Monats-Bilanz bzw. Verein-->Saison-Bilanz. Hier kann man die [Einnahmen] und [Ausgaben] im gewählten Zeitraum, nach Einzelpositionen aufgeschlüsselt, einsehen. Standardmäßig ausgewählt ist immer der aktuelle Monat, bzw. die aktuelle [Saison], es lassen sich aber auch frühere Zeiträume einsehen. 
+
+Den aktuellen Kontostand findet man oberhalb der Zeitraumauswahl.
+
+! Einnahmen
+
+Die Einnahmen eines Vereins sind in der [Bilanz] einzusehen. Einnahmen können sein: 
+
+* erhaltene Ablösen
+* erhaltene Leihgebühren
+* [Sponsorenvertrag|Sponsoreneinnahmen]
+* [intern. Prämien|Internationale Prämien]
+* [Pokalprämie|nationale Prämien] und sonstiges
+* Zuschauereinnahmen
+
+! Ausgaben
+
+Die '''Ausgaben''' eines Vereins sind in der [Bilanz] einzusehen. 
+
+Sollte dein Verein finanzielle Schwierigkeiten haben, solltest du versuchen Spieler zu verkaufen (bitte immer auf eine angemessene Ablöse achten, diese sollte in der Regel über dem [Marktwert] liegen) und im Stadion die eventuell vorhandene Videowand gegen eine große LED eintauschen. Für weitere Tipps empfiehlt es sich immer im [Forum] nachzufragen. Sollte dein Verein aufgrund der hohen Schulden nicht mehr spielbar sein, kannst du dich auch bei einem [Admin] melden und nach "Hilfe von oben" fragen. 
+
+Ausgaben können sein:
+* [Spielergehalt|Spielergehälter]
+* [Prämien|Auflauf- und Torprämien]
+* gezahlte Ablösen
+* [Beratergebühr|gezahlte Beratergebühren]
+* gezahlte Handgelder
+* gezahlte Leihgebühren
+* [Stammplatzgarantie|gezahlte Stammplatzstrafen]
+* [Vertragsverhandlungen|gezahlte Abfindungen]
+* [Stadion|Stadionumbauten oder -renovierungen]
+* Ausgaben für die [Jugendarbeit|Jugend-] oder [Amateurabteilung]
+* [Fanausgaben]
+* Ausgaben für [Events]
+* [Steuern]
+* Strafen bei einem Regelverstoss
+
+{tags: Finanzen}

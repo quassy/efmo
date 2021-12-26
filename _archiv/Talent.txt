@@ -1,0 +1,7 @@
+Jeder Spieler besitzt ein verstecktes Talent. Das Talent eines Spielers entscheidet darüber welche maximale [Gesamtstärke|Stärke] ein Spieler während seiner Karriere erlangen kann.
+
+Die Talentgrenzen sind inzwischen für jeden Spieler individuell, jede Stärke kann also eine Talentgrenze darstellen. Die unterste Grenze für eine Talentgrenze liegt allerdings bei 5.0. Also kann jeder Spieler bei FMO die Stärke 5.0 erreichen.
+
+Die Talentgrenze eines Spielers ist nicht einsehbar.
+
+{tags: Spieler}

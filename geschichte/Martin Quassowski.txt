@@ -1,0 +1,7 @@
+{menu(manager.html)
+  parent=[Martin Quassowski]
+  [2989]
+} 
+{tags: Manager}
+
+'''Martin Quassowski''' leitet den serbischen Erstligisten [Vujvodina Novi Sad]. Außerdem ist er noch Entwickler der Zeitungsplattform [EFMo|EFMo].

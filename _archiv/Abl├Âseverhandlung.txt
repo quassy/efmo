@@ -1,0 +1,9 @@
+'''Ablöseverhandlungen''' sind der letzte Schritt auf dem Weg zur Neuverpflichtung eines neuen Spielers für das eigene [Mannschaft] bzw. den Verkauf eines eigenen Spielers. Ihnen gehen immer [Vertragsverhandlungen] vor. 
+
+Der interessierte Verein schreibt dazu eine Mail an den abgebenden Verein, in dem die gebotene Ablöse und gegebenenfalls eine kurze Bemerkung angegeben wird. Dazu sind 7 Tage Zeit. Der interessierte Verein kann sein Gebot jederzeit erhöhen, er braucht nicht auf eine Antwort zu warten. 
+
+Einigen sich Interessent und abgebender Verein innerhalb dieser 7 Tage nicht auf eine Ablösesumme, findet der Wechsel nicht statt, und der Spieler kann bei einem guten Vertragsangebot und einem guten Ablöseangebot etwas Motivation verlieren.
+
+Ein Ablöseangebot annehmen oder ablehnen kann man über die Registerkarte "Beantworten" in der Angebotsmail.
+
+{tags: Transfers}

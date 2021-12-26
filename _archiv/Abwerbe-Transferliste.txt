@@ -1,0 +1,9 @@
+Die '''Abwerbetransferliste''' findest du unter Transfers-->Abwerbe-Transferliste. Sie ist die Liste, auf die Spieler kommen, wenn sie von einem anderen Manager angesprochen wurden. Die Spieler stehen immer 4 Tage auf der Abwerbetransferliste, bevor sie sich für ein [Vertragsverhandlungen|Vertragsangebot] entscheiden.
+
+Hat der Spieler noch einen Vertrag von mehr als einem Jahr Restlaufzeit und keine [Fixe Ablöse], muss sich der Verein, der ein Angebot an den Spieler gemacht hat, mit dem Verein, in dem der Spieler ist, in [Ablöseverhandlungen] auf eine Ablösesumme einigen. Dazu bleiben ihm 7 Tage Zeit. Einigen sich Interessent und abgebender Verein innerhalb dieser 7 Tage nicht auf eine Ablösesumme, findet der Wechsel nicht statt, und der Spieler kann bei einem guten Vertragsangebot und einem guten Ablöseangebot etwas Motivation verlieren.
+
+Ein Ansprechen dieser Spieler ohne vorherige Kommunikation mit dem abgebenden Manager ist zwar erlaubt, aber oft nicht gern gesehen, da der Spieler schon versprochen sein kann. Es empfiehlt sich daher, den Manager kurz anzuschreiben und zu fragen, ob es ok ist, mitzubieten, und kann dann immernoch ein Angebot an den Spieler machen. 
+
+Hat der Spieler einen auslaufenden [Vertrag], wird er sich für das beste Angebot entscheiden, und nach Ablauf der Restvertragslaufzeit den Verein wechseln. Bis zur Winterpause gibt es aber in der Regel eine Schutzphase, in der diese Spieler nur für einen sofortigen Wechsel gegen Ablöse angesprochen werden können, also auch wieder nur mit Zustimmung des Managers.
+
+{tags: Transfers}

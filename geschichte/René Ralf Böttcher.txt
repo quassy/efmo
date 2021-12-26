@@ -1,0 +1,7 @@
+{menu(manager.html)
+  parent=[René Ralf Böttcher]
+  [41808]
+} 
+{tags: Manager}
+
+'''René Ralf Böttcher''' ist Manager des griechischen Unterhaus-Klubs [PAS Giannina]. Früher war er mal Manager von [Iunikos Veria].

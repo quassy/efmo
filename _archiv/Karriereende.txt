@@ -1,0 +1,7 @@
+Sind Spieler einmal 31 (Torwärte 34), kann es sein, dass sie bei den [AAWs] ihr Karriereende bekannt geben. Das bedeutet, sie werden ihren Vertrag nur noch für die restliche Laufzeit erfüllen, werden ihn aber nicht mehr verlängern. [Spielerkauf|Verkaufen] kann man diese Spieler dann auch nicht mehr, nur noch eine [Spielerleihe] ist möglich.
+
+Wenn ein Spieler sein Karriereende angekündigt hat, ist das unumkehrbar und wird für alle Manager sichtbar in der [Spielerinfo] angezeigt.
+
+Spieler die ihr Karriereende angekündigt haben können, unabhängig der üblichen Beschränkungen, entlassen werden.
+
+{tags: Spieler}

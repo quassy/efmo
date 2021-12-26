@@ -1,0 +1,21 @@
+Das '''[Forum|http://forum.fussballmanager-online.com]''' ist ein Kommunikationsmedium für alle FMO-Manager. Hier können Fragen gestellt, mögliche Bugs gemeldet, Spieler angeboten und mit anderen Managern über die eigene Liga, oder Gott und die Welt geredet werden.
+
+Ins Forum kannst du dich mit den Benutzerdaten einloggen, mit denen du dich auch ins Spiel einloggst. Das Forum ist auch unter dem Menüpunkt ''Sonstiges › Community › Forum'' zu finden.
+
+Im Forum gelten die [Foren-Regeln|http://forum.fussballmanager-online.com/thread.php?threadid=1]. Die Einhaltung der Foren-Regeln wird von den [Foren-Admin]s forciert.
+
+Im Forum lässt sich alternativ zu Ingame-Mails auch mittels [Nachrichtenarten|Foren-PNs] mit anderen Manager kommunizieren. 
+
+!  Formatierung 
+
+Um Bilder und Links in die eigenen Beiträge einzubauen werden [BBCodes|http://de.wikipedia.org/wiki/BBCode] verwendet. Ein Link zu [FMO-Hauptseite|http://fussballmanager-online.com] wird zum Beispiel mit folgendem Code erzeugt: 
+
+ {{[url=http://fussballmanager-online.com]FMO-Hauptseite[/url]}}
+
+Ein Bild, in diesem Fall speziell eine Länderflagge, wird wie folgt eingebaut: 
+
+ {{[img]http://www.wurzelito.de/Flaggen/scotland.gif[/img]}}
+
+Flaggen kann man von verschiedenen Seiten einbinden, z.B. von [hier|http://www.wurzelito.de/Flaggen]. 
+
+{tags: Community}

@@ -1,0 +1,40 @@
+Das [EFMo-Menü|http://efmo.de/files/menu/] ist als benutzerfreundlicher und anpassbarer Ersatz für das standardmäßige FMO-Menü gedacht. 
+
+'''Jeder''' Manager kann Vorschläge für angepasste Menüs (wenn möglich als [json|http://de.wikipedia.org/wiki/JSON]-Datei) und Designs (wenn möglich als [css|http://de.wikipedia.org/wiki/Cascading_Style_Sheets]-Datei) machen, meldet euch einfach in unserem [Foren-Thread|http://forum.fm-o.com/thread.php?threadid=11700].
+
+! Anpassen
+Bis jetzt kann das FMO-Menü mit drei Dateien angepasst werden: Einem Stylesheet für's Aussehen, einer json-Datei mit den normalen Menüeinträgen und einer json-Datei für die persönlichen Quicklinks. Um das Menü angepasst aufzurufen müssen die entsprechenden Parameter an den Link angehängt werden:
+
+{{http://efmo.de/files/menu/?css=stylesheet&menu=menueintraege&links=quicklinks}}
+
+Der Standard ist zur Zeit (muss nicht explizit angegeben werden):
+
+{{http://efmo.de/files/menu/?css=fmo_blue&menu=efmo}}
+
+Damit wird das [blaugraue Standarddesign (fmo_blue)|http://efmo.de/files/menu/css/fmo_blue.css] von FMO und eine [geänderte Menüanordnung (efmo)|http://efmo.de/files/menu/menu/efmo.json] von EFMo geladen. 
+
+Optional lässt sich noch {{&links=m2989}} anhängen um z.B. die [Quicklinks von Martin Q (m2989)|http://efmo.de/files/menu/links/m2989.json] dazu zu laden. 
+
+!! Stylesheets
+
+* '''[fmo_blue|http://efmo.de/files/menu/css/fmo_blue.css]''': Standarddesign von FMO
+
+!! Menüdateien
+
+* '''[fmo_official|http://efmo.de/files/menu/menu/fmo_official.json]''': Anordnung quasi wie bei FMO
+* '''[efmo|http://efmo.de/files/menu/menu/efmo.json]''': Ohne „Transfers“, weniger abpiff-Links, dafür Community-Seiten (z.B. Spielerbörse)
+
+!! Quicklinks
+Eigene Quicklinks lassen sich durch zusenden einer angepassten json-Datei bekommen. So sehen z.B. die standardmäßigen Quicklinks aus:
+{{
+[
+    ["efmo", "http://efmo.de"],
+    ["menü", "http://efmo.de/Wiki/index.php?page=EFMo-Menü"]
+]
+}}
+
+
+! Fehler
+Ihr müsst Cookies von Drittanbietern aktzeptieren, um mit dem Menü bei FMO eingeloggt zu sein. In Firefox: Einstellungen > Datenschutz, entweder Cookies von Drittanbietern aktzeptieren oder eine Ausnahme für fussballmanager-online.com hinzufügen.
+
+Wenn ihr bei FMO einen Fehler findet testet ihn immer erst mit der offizellen Seite / Menü.

@@ -1,0 +1,97 @@
+[Original|http://efmo.de/files/menu/css/fmo_blue.css]
+{{
+/* FMO-Style */
+* {
+    margin:0;
+    padding:0;
+    border:none;
+}
+body {
+    background-image:url('http://fm-o.com/images/headframe/background.png');
+    background-color:#22333B;
+    background-repeat:repeat-x;
+    font-size:11px;
+    font-family:Tahoma,sans-serif;
+    color:#fff;
+}
+a {
+    font-weight:bold;
+    text-decoration:none;
+    color:#fff;
+    display:inline-block;
+    padding:5px;
+}
+a:hover {
+    color:#F5C66C;
+}
+
+/* Logostuff */
+.logo {
+    padding:0;
+    display:block;
+    height:30px;
+    padding-top:70px;
+    width:175px;
+    background-image:url('http://fm-o.com/images/headframe/logo.png');
+}
+.menubeginning {
+    padding:0;
+    position:absolute;
+    top:25px;
+    left:175px;
+    background-image:url('http://fm-o.com/images/headframe/menubeginning.png');
+    width:85px;
+    height:75px;
+    display:block;
+}
+.menufoot {
+    position:absolute;
+    top:65px;
+    left:260px;
+    background-image:url('http://fm-o.com/images/headframe/menufoot.png');
+    width:100px;
+    height:35px;
+    display:block;
+}
+.ealogo {
+    position:absolute;
+    top:0;
+    right:0;
+    background-image:url('http://fm-o.com/images/headframe/ealogo.png');
+    display:block;
+    width:90px;
+    height:100px;
+}
+
+/* Tab Style */
+.tabs > li > a {
+    padding:6px;
+    border-right:1px solid #000;
+}
+.tabs > li:hover > a,
+.tabs > li:target > a {
+    background:transparent url('http://fm-o.com/images/headframe/menu1_bg_sel.png');
+    color:#000;
+}
+
+.tabs {
+    position:absolute;
+    top:0;
+    left:180px;
+}
+.tabs ul {
+    position:absolute;
+    top:25px;
+    left:80px
+}
+
+/* Quicklinks */
+.links {
+    position:absolute;
+    right:100px;
+    top:45px;
+}
+.links li {
+    display:inline-block;
+}
+}}

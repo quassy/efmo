@@ -1,0 +1,35 @@
+Die Fitness berechnet sich aus Kondition, [Frische] und [Motivation] eines Spielers. Je höher die Fitness, desto besser für die [AAWs]. Jeder Spieler bekommt für die AAWs auch einen kleinen Fitness-Bonus für jedes gemachte Spiel.
+
+
+! Frische
+Die Frische gibt an, wie frisch ein Spieler ist, bzw. wie "unmüde" er ist. Je höher die Frische eines Spielers, desto mehr kann er laufen. Ist die Frische niedrig, ist er müde, seine Leistungen nehmen ab und die [Verletzungen|Verletzungsgefahr] steigt leicht an. Die Frische ist unabhängig von der Kondition eines Spielers. Sie kann durch [Mannschaftstraining|Training] oder [Events] steigen oder fallen, bei Spielen fällt sie nur. Der Frischeverlust ist dabei abhängig vom [Einsatz].
+
+Die Frische ist ein Teil der [Fitness].
+
+! Motivation
+
+Die Motivation eines Spielers gibt seine derzeitige moralische Verfassung an. Je höher die Motivation eines Spielers steigt, desto höher wird seine [Einsatzstärke]. Die Motivation ist am Saisonanfang bei 100 und kann sich dann durch Ereignisse verändern. Die maximale Motivation beträgt 110.
+
+!!  Liste von (potentiell) motivationsverändernden Ereignissen 
+'''Positive Auswirkungen:'''
+*Einsätze
+*Tore
+*positiv überraschende Spielergebnisse
+*erfolgreiche Vertragsverlängerungen
+*[Events]
+*freie Trainingstage
+*leichtes Training
+*Einwechslungen
+*Ereignisse
+
+'''Negative Auswirkungen:'''
+*"nicht eingesetzt werden"
+*enttäuschende Spielergebnisse
+*gescheiterte Vertragsverhandlungen
+*gescheiterte Ablöseverhandlungen (wenn die angebotene Summe deutlich über dem [Marktwert] lag)
+*Druck durch hohe Ablöse
+*Konditionstraining
+*Training mit 3 Einheiten am Tag
+*Auswechslungen
+
+{tags: Training, Aufstellung und Taktik, Spieler}
