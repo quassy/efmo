@@ -1,9 +1,0 @@
-Investitionen in die '''Amateur-/ Jugendabteilung''' sind die zweite Quelle für talentierte Nachwuchsspieler eines jeden Vereins neben den [Scouting]s. Wie beim [Scouting] werden die durch diese gezielten Ausgaben entdeckten Spieler in die Amateur-/Jugendabteilung aufgenommen. Man findet sie im Menü unter Mannschaft-->Amateure. 
-
-Je nach Höhe der monatlichen [Ausgaben] ist die Wahrscheinlichkeit, daß ein neuer Spieler in die Jugend- oder Amateurabteilung aufrückt, unterschiedlich groß. Natürlich steigt sie mit steigenden [Ausgaben]. Maximal können hier 100.000 Euro investiert werden. Die Chancen beim Scouting werden davon allerdings nicht beeinflusst.
-
-Aus der Jugendabteilung können Spieler frühestens nach Vollendung des 17. Lebensjahres in den [Profi-Kader] geholt werden, bei den Amateuren gibt es keine Beschränkung. Der Spieler erhält dann automatisch einen 2-Jahres-Vertrag (vor der Winterpause) oder einen 3-Jahres-Vertrag (nach der Winterpause).
-
-Die eingestellten monatlichen [Ausgaben] werden am 1. eines jeden Monats abgebucht.
-
-{tags: Spieler, Finanzen}

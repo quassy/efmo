@@ -1,5 +1,0 @@
-Der Sponsorentag ist ein [Events|Event], welches über den [Kalender] eingestellt werden kann. Dort werden die Sponsoren zu einem kleinen Treffen eingeladen, um sich von der Arbeit des Managers zu überzeugen. Als Dank für die Aufmerksamkeit überweisen die Sponsoren daraufhin einen Betrag von 5% der [Sponsorenvertrag|Jahressponsorengelder] des Vereins.
-
-Ein Sponsorentag kann nur einmal pro Saison durchgeführt werden, Wiederholungen werden vom Vorstand abgesagt.
-
-{tags: Events, Finanzen}
