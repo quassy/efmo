@@ -2,7 +2,7 @@
 
 - [Willkommen](README.md)
     - [Abkürzungen]()
-    - [Geschichte]()
+    - [Über das Spiel]()
 - [Training](training/README.md)
     - [Trainingsplan](training/Trainingsplan.md)
     - [Trainingswerte](training/Trainingswerte.md)
@@ -18,3 +18,4 @@
 - [Spieler](spieler/README.md)
 - [Transfer](transfers/README.md)
 - [Finanzen](finanzen/README.md)
+- [Weitere Bedienung](bedienung/README.md)
